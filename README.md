@@ -567,7 +567,7 @@ conf_board.h file:
   </br>7. Send Radio Data -> transmit a radio packet over the air
   </br>8. Enter Radio Receive mode -> put the device in receiver mode
   </br>9. Exit Radio Receive mode -> exit from the receiver mode
-</br>
+</br></br>
 - From the third menu displayed, select "Send Data" if your device has correctly joined a LoRaWAN Network
 </br></br>![](Doc/AppsEndDevice_P2P_SendLoRaWANdata.png) </br></br>
 - The end-device will transmit uplink message which contains the temperature in Celsius and in Fahrenheit formats.
