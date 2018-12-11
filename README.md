@@ -582,7 +582,7 @@ conf_board.h file:
   </br>4. MAC Pause
   </br>5. Configure Radio
   </br>6. Send Radio Data
-</br>
+</br></br>
 - You can observe the radio transaction. A counter value is incremented and transmitted from one device to the other.
 </br></br>![](Doc/AppsEndDevice_P2P_RadioTransaction.png) </br></br>
 - A reception timeout event or a packet received results to automatically exit from reception mode
