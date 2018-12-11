@@ -517,10 +517,9 @@ static void processJoinAndSend(void)
   </br>- AppEUI : Copy/Paste from your Network Server
   </br>- AppKey: Copy/Paste from your Network Server
   </br>- DevEUI: Serialized (Embedded) in the EDBG chip of the ATMSAMR34 Xplained Pro evaluation kit
-</br></br>
+</br></br></br>
 The LoRaWAN Mote Application provides configurable parameters such as OTAA credentials in conf_app.h file. This file is available at <your project folder>/src/config.
-</br>
-- To provision your device, perform the following steps:
+- To provision your device, perform the following steps.
 - From the "Solution Explorer" pane, expand the /src/config folders.
 - Open the conf_app.h file.
 The file contains the possible configuration related to the LoRaWAN Mote Application.
