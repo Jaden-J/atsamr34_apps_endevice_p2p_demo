@@ -514,10 +514,10 @@ static void processJoinAndSend(void)
 - Start Atmel Studio 7 IDE
 - Open this project
 - To activate your ATSAMR34 Xplained Pro board on a LoRa Network Server, you will be using the OTAA activation procedure. The OTAA method requires the following parameters to be embedded into the LoRaWAN Mote Application:
-  </br>AppEUI : Copy/Paste from your Network Server
-  </br>AppKey: Copy/Paste from your Network Server
-  </br>DevEUI: Serialized (Embedded) in the EDBG chip of the ATMSAMR34 Xplained Pro evaluation kit
-</br>
+  </br>- AppEUI : Copy/Paste from your Network Server
+  </br>- AppKey: Copy/Paste from your Network Server
+  </br>- DevEUI: Serialized (Embedded) in the EDBG chip of the ATMSAMR34 Xplained Pro evaluation kit
+</br></br>
 The LoRaWAN Mote Application provides configurable parameters such as OTAA credentials in conf_app.h file. This file is available at <your project folder>/src/config.
 </br>
 - To provision your device, perform the following steps:
